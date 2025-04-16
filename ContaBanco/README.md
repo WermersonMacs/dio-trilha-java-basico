@@ -1,18 +1,13 @@
-## Getting Started
+# 💻 Desafio: Criando uma Conta Bancária no Terminal com Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto é parte de um desafio básico proposto pela **Digital Innovation One (DIO)**, com o objetivo de aplicar os primeiros conceitos da linguagem Java, como entrada de dados com `Scanner`, manipulação de variáveis e exibição de mensagens no terminal.
 
-## Folder Structure
+## 🧠 Objetivo
 
-The workspace contains two folders by default, where:
+Criar um programa simples que simula a criação de uma conta bancária, interagindo com o usuário via terminal. O programa deve:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Solicitar o nome do cliente
+- Solicitar o número da agência
+- Solicitar o número da conta
+- Solicitar o saldo
+- Exibir uma mensagem formatada com os dados informados
